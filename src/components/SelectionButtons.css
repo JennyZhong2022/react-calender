@@ -1,0 +1,11 @@
+.selectionButtons{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.selectionButtons button{
+  border: 2px solid black;
+  width: 24%;
+}
